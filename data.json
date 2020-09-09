@@ -2,13 +2,13 @@
   "customers": [
     {
       "id": "1",
-      "name": "Hanru",
+      "name": "hw",
       "email": "hw@gmail.com",
       "age": 35
     },
     {
       "id": "2",
-      "name": "sh",
+      "name": "sy",
       "email": "sh@gmail.com",
       "age": 34
     },
